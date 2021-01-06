@@ -1,0 +1,2 @@
+C:\Users\swkpe\projects\demo\c++\Chap6\Chap6.2\Debug\Chap6.2.exe
+C:\Users\swkpe\projects\demo\c++\Chap6\Chap6.2\Debug\Chap6.2.pdb

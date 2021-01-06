@@ -1,0 +1,2 @@
+C:\Users\swkpe\projects\demo\c++\Chap5L\Chap5L.1\Debug\Chap5L.1.exe
+C:\Users\swkpe\projects\demo\c++\Chap5L\Chap5L.1\Debug\Chap5L.1.pdb

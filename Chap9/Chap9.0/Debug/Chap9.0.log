@@ -1,0 +1,22 @@
+﻿  Chap9.0.cpp
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(26,16): error C2955: 'std::array': use of class template requires template argument list
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\array(418): message : see declaration of 'std::array'
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(26,32): error C2514: 'std::array': class template cannot be constructed
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\array(418): message : see declaration of 'std::array'
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(32,37): error C2663: 'std::array<_Ty,_Size>::begin': 2 overloads have no legal conversion for 'this' pointer
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(32,50): error C2663: 'std::array<_Ty,_Size>::end': 2 overloads have no legal conversion for 'this' pointer
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(32,23): error C2672: 'std::accumulate': no matching overloaded function found
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(32,59): error C2780: '_Ty std::accumulate(const _InIt,const _InIt,_Ty)': expects 3 arguments - 2 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\numeric(42): message : see declaration of 'std::accumulate'
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(32,59): error C2780: '_Ty std::accumulate(const _InIt,const _InIt,_Ty,_Fn)': expects 4 arguments - 2 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\numeric(26): message : see declaration of 'std::accumulate'
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(35,21): error C2663: 'std::array<_Ty,_Size>::begin': 2 overloads have no legal conversion for 'this' pointer
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(35,34): error C2663: 'std::array<_Ty,_Size>::end': 2 overloads have no legal conversion for 'this' pointer
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(35,10): error C2672: 'std::shuffle': no matching overloaded function found
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(35,44): error C2780: 'void std::shuffle(_RanIt,_RanIt,_Urng &&)': expects 3 arguments - 2 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(2854): message : see declaration of 'std::shuffle'
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(37,18): error C2663: 'std::array<_Ty,_Size>::_Unchecked_begin': 2 overloads have no legal conversion for 'this' pointer
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(37,18): error C2663: 'std::array<_Ty,_Size>::_Unchecked_end': 2 overloads have no legal conversion for 'this' pointer
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(37,21): error C3536: '<begin>$L0': cannot be used before it is initialized
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(37,21): error C3536: '<end>$L0': cannot be used before it is initialized
+C:\Users\swkpe\projects\demo\c++\Chap9\Chap9.0\Chap9.0.cpp(37,21): error C2100: illegal indirection
